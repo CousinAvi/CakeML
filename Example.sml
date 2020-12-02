@@ -26,7 +26,7 @@ fun add_and_apply_price () =
         val storage = [];
 
     in
-        print("This is will abe dd and apply price part\n")
+        print("This is will be add and apply price part\n")
     end;
 
 
